@@ -1,0 +1,31 @@
+{
+  "name": "nots",
+  "version": "1.0.1",
+  "description": "Node Object Tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mooncide/NOT.git"
+  },
+  "keywords": [
+    "mahotech",
+    "tools"
+  ],
+  "author": "Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mooncide/NOT/issues"
+  },
+  "homepage": "https://github.com/Mooncide/NOT#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mqtt": "^4.2.8",
+    "mysql": "^2.18.1",
+    "python-shell": "^3.0.1",
+    "socket.io": "^4.4.0"
+  }
+}
